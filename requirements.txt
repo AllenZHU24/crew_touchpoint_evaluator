@@ -1,0 +1,7 @@
+crewai
+crewai_tools
+openai
+pandas
+requests
+beautifulsoup4
+playwright
