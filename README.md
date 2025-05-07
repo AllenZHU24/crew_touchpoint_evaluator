@@ -1,6 +1,6 @@
 # Crew Touchpoints Evaluator (Multi-Agents)
 
-Download an anaylsis website using AI Agents. (based on CrewAI)
+Download and anaylsis website using AI Agents. (based on CrewAI)
 
 ## Installation
 
